@@ -30,6 +30,6 @@ public class MainActivityTest
 
     public void testTesters()
     {
-        Assert.assertTrue(true);
+        Assert.assertTrue(false);
     }
 }
